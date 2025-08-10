@@ -52,4 +52,6 @@ Adjust `opacity-rule`, `inactive-opacity`, and `shadow-*` values in picom.conf t
 ---
 
 📝 License
-MIT License — feel free to modify and share.
+This project is licensed under MIT.
+
+See (LICENSE)[https://github.com/prevostcorentin/LICENSE].

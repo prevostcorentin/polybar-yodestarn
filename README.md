@@ -23,7 +23,7 @@ Transparency and shadow effects enabled using **picom**. `i3` ready, needs minor
 Clone the repo into your Polybar config directory:
 
 ```bash
-git clone https://github.com/yourusername/polybar-theme.git ~/.config/polybar
+git clone https://github.com/prevostcorentin/polybar-yodestarn.git ~/.config/polybar
 ```
 
 ---

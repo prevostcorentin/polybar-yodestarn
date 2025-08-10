@@ -54,4 +54,4 @@ Adjust `opacity-rule`, `inactive-opacity`, and `shadow-*` values in picom.conf t
 📝 License
 This project is licensed under MIT.
 
-See (LICENSE)[https://github.com/prevostcorentin/LICENSE].
+See [LICENSE](https://github.com/prevostcorentin/polybar-yodestarn/LICENSE)

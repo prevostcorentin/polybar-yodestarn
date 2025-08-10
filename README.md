@@ -7,9 +7,6 @@ Transparency and shadow effects enabled using **picom**. `i3` ready, needs minor
 
 <img width="1920" height="44" alt="bottome-bar" src="https://github.com/user-attachments/assets/1e643ff2-be6a-46d8-ba54-6a78c43bf15a" />
 
-<img width="1920" height="1078" alt="3_terms" src="https://github.com/user-attachments/assets/bcbc9c95-7cd1-4ae6-a71f-5e85789f9d2e" />
-
-
 ---
 
 ## ✨ Features
